@@ -1,4 +1,4 @@
-# TODO App built with Flask and ReactJS
+# TODO App V1-V2 built with Flask and ReactJS
 
 This is an web app with the objective of being able to save your notes and have them stored in a database. The user is able to perform basic actions such as create, read, update and delete this data, a basic CRUD.
 
